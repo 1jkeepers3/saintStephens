@@ -3,7 +3,7 @@ Redesigned website for Saint Stephen’s Church in South Plainfield, NJ where po
 
 **Link to project:** https://leafy-tarsier-d44c96.netlify.app/
 
-![alt tag](https://github.com/1jkeepers3/saintStephens/tree/main/images/SaintStephensRentalHall.png)
+![alt tag](https://github.com/1jkeepers3/saintStephens/blob/main/images/SaintStephensRentalHall.png)
 
 
 
