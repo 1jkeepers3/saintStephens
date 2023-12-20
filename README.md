@@ -11,7 +11,7 @@ Redesigned website for Saint Stephen’s Church in South Plainfield, NJ where po
 
 **Tech used:** html5up template
 
-This was a client project. I met with Sain Stephens Church about their website. Their current website has a lot of text and images about the church and how to join or contact them, but not a lot about their rental hall space. We decided to work together on a simple website with photos of their rental hall and contact information that was designed more for those potential customers. I used the lens template html5up. I added the pictures and text they provided and then hosted the website on Netlify. I then gave them their login for Netlify and the link. 
+This was a client project. I met with Saint Stephens Church about their website. Their current website has a lot of text and images about the church and how to join or contact them, but not a lot about their rental hall space. We decided to work together on a simple website with photos of their rental hall and contact information that was designed more for those potential customers. I used the lens template html5up. I added the pictures and text they provided and then hosted the website on Netlify. I then gave them their login for Netlify and the link. 
 
 ## Optimizations
 
